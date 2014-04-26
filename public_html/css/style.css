@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;}
+
+iframe{
+	width: 85%;
+	height: 70%;
+	margin-left: 5%;
+	background: #f5f5f5;
+}
+.row{margin:0; padding:0;}
+.clear{	clear:both;}
+.center{
+	width: 90%;
+	height: 90%;
+	margin: auto;
+	background: #FFF;
+}
+.load{
+	background:#000 url('img/fb-loading.gif') center no-repeat;
+}
+#table{
+	width: 70%;
+	height: 70%;
+	background:#c9c9c9;
+	margin:1% auto;
+}
+.head{
+	background: #CCC;
+	text-align: center;
+}
+.input{
+	width: 40%;
+	float: left;
+}
+.novo{
+	width: 50%;
+	margin: auto;
+	border-radius: 5px;
+}
